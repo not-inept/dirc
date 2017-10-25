@@ -1,0 +1,11 @@
+[package]
+name = "dirc"
+version = "0.1.0"
+authors = ["not-inept <mason@notinept.me>"]
+
+[dependencies]
+serenity = "0.4"
+config = "0.6"
+serde_derive = "1.0"
+serde_json = "*"
+irc = "0.12.5"
